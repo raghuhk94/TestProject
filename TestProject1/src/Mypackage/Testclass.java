@@ -12,6 +12,8 @@ public class Testclass {
 		System.out.println("New changes added");
 		System.out.println("Last commit");
 		System.out.println("Last commit2");
+		System.out.println("Lastcommit3");
+		System.out.println("Last commit4");
 			
 	}
 
